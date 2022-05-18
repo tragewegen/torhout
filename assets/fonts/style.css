@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'MaisonNeue-Bold';
+   font-display: swap;
+   src: url('MaisonNeue-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'MaisonNeue-Demi';
+   font-display: swap;
+   src: url('MaisonNeue-Demi/font.ttf');
+}
