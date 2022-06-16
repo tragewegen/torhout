@@ -2130,187 +2130,24 @@ section.lazy-placeholder:after {
 .cid-spi53D4MKX H5 {
   color: #ffffff;
 }
-.cid-sq1IXAeTaZ {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-t8Uq6mO9lK {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
-.cid-sq1IXAeTaZ .item {
-  padding-bottom: 2rem;
+.cid-t8Uq6mO9lK .image-block {
+  margin: auto;
 }
-.cid-sq1IXAeTaZ .carousel-control,
-.cid-sq1IXAeTaZ .close {
-  background: #1b1b1b;
+.cid-t8Uq6mO9lK figcaption {
+  position: relative;
 }
-.cid-sq1IXAeTaZ .carousel-control-prev {
-  margin-left: 2.5rem;
-}
-.cid-sq1IXAeTaZ .carousel-control-next {
-  margin-right: 2.5rem;
-}
-.cid-sq1IXAeTaZ .close {
-  position: fixed;
-  opacity: .5;
-  font-size: 35px;
-  font-weight: 300;
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  color: #fff;
-  top: 2.5rem;
-  right: 2.5rem;
-  line-height: 70px;
-  border: none;
-  text-align: center;
-  text-shadow: none;
-  z-index: 5;
-  -webkit-transition: opacity .3s ease;
-  -moz-transition: opacity .3s ease;
-  -o-transition: opacity .3s ease;
-  transition: opacity .3s ease;
-  font-family: 'MobiriseIcons';
-}
-.cid-sq1IXAeTaZ .close::before {
-  content: '\e91a';
-}
-.cid-sq1IXAeTaZ .close:hover {
-  opacity: 1;
-  background: #000;
-  color: #fff;
-}
-.cid-sq1IXAeTaZ .carousel-control {
-  position: fixed;
-  width: 70px;
-  height: 70px;
-  top: 50%;
-  margin-top: -35px;
-  line-height: 70px;
-  border-radius: 50%;
-  font-size: 35px;
-  border: 0;
-  opacity: .5;
-  text-shadow: none;
-  z-index: 5;
-  color: #fff;
-  -webkit-transition: all 0.2s ease-in-out 0s;
-  -o-transition: all 0.2s ease-in-out 0s;
-  transition: all 0.2s ease-in-out 0s;
-}
-.cid-sq1IXAeTaZ .carousel-inner > .active {
-  display: block;
-}
-.cid-sq1IXAeTaZ .carousel-control.left {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-sq1IXAeTaZ .carousel-control.right {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-sq1IXAeTaZ .carousel-control .icon-next,
-.cid-sq1IXAeTaZ .carousel-control .icon-prev {
-  margin-top: -18px;
-  font-size: 40px;
-  line-height: 27px;
-}
-.cid-sq1IXAeTaZ .carousel-control:hover {
-  background: #1b1b1b;
-  color: #fff;
-  opacity: 1;
+.cid-t8Uq6mO9lK figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-sq1IXAeTaZ .carousel-control,
-  .cid-sq1IXAeTaZ .carousel-indicators,
-  .cid-sq1IXAeTaZ .modal .close {
-    position: fixed;
+  .cid-t8Uq6mO9lK .image-block {
+    width: 100% !important;
   }
-}
-@media (max-width: 767px) {
-  .cid-sq1IXAeTaZ .mbr-slider .carousel-control {
-    top: auto;
-    bottom: 20px;
-  }
-  .cid-sq1IXAeTaZ .mbr-slider > .container .carousel-control {
-    margin-bottom: 0;
-  }
-}
-.cid-sq1IXAeTaZ .carousel-indicators {
-  bottom: 0;
-  margin-bottom: 3px;
-}
-@media (max-width: 991px) {
-  .cid-sq1IXAeTaZ .carousel-indicators {
-    margin-bottom: 3.625rem !important;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sq1IXAeTaZ .carousel-indicators {
-    display: none;
-  }
-}
-.cid-sq1IXAeTaZ .carousel-indicators .active,
-.cid-sq1IXAeTaZ .carousel-indicators li {
-  width: 7px;
-  height: 7px;
-  margin: 3px;
-  background: #1b1b1b;
-  opacity: .5;
-  border: 4px solid #1b1b1b;
-}
-.cid-sq1IXAeTaZ .carousel-indicators .active {
-  background: #fff;
-}
-.cid-sq1IXAeTaZ .carousel-indicators li {
-  max-width: 15px;
-  max-height: 15px;
-  border-radius: 50%;
-}
-.cid-sq1IXAeTaZ .modal {
-  padding-left: 0 !important;
-  position: fixed;
-  overflow: hidden;
-  padding-right: 0 !important;
-}
-.cid-sq1IXAeTaZ .modal-dialog {
-  margin: 0 auto;
-  max-width: 100%;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-sq1IXAeTaZ .modal-content {
-  border-radius: 0;
-  border: none;
-  background: transparent;
-}
-.cid-sq1IXAeTaZ .modal-body {
-  padding: 0;
-  display: flex;
-  align-items: center;
-}
-.cid-sq1IXAeTaZ .modal-body img {
-  width: 100%;
-  object-fit: contain;
-  max-height: calc(98.25vh);
-  height: fit-content;
-}
-.cid-sq1IXAeTaZ .carousel {
-  width: 100%;
-}
-.cid-sq1IXAeTaZ .modal-backdrop.in {
-  opacity: .8;
-}
-.cid-sq1IXAeTaZ .modal.fade .modal-dialog {
-  -webkit-transition: margin-top 0.3s ease-out;
-  -moz-transition: margin-top 0.3s ease-out;
-  -o-transition: margin-top 0.3s ease-out;
-  transition: margin-top 0.3s ease-out;
-}
-.cid-sq1IXAeTaZ .modal.fade .modal-dialog,
-.cid-sq1IXAeTaZ .modal.in .modal-dialog {
-  -webkit-transform: none;
-  -ms-transform: none;
-  -o-transform: none;
-  transform: none;
 }
